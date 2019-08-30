@@ -1,0 +1,15 @@
+.MyName {
+    background-color: #4aaaa5;
+    padding:20px;
+    color: #ffffff;
+    float: left;  
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    float: left;
+}
+#collapsiblNavID {
+    float:right;
+}
+
