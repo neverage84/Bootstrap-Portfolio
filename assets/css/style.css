@@ -6,10 +6,18 @@
     margin-bottom: 0;
 }
 
-.navbar-brand {
-    float: left;
-}
-#collapsiblNavID {
-    float:right;
+.container {
+    background-color: #ffffff;
 }
 
+body {
+    background-image: url("../images/purty_wood.png");
+}
+
+nav {
+    border-bottom: gray 2px solid;
+}
+
+.TopMainContent {
+    margin-top: 20px;
+}
