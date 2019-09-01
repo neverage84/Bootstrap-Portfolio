@@ -54,3 +54,11 @@ p   {
     
 }
 
+footer {
+    padding: 30px;
+    text-align: center;
+    font-size: 12px;
+    background-color: #666666;
+    border-top: solid 6px #4aaaa5;
+    color: #ffffff;
+}
