@@ -34,13 +34,17 @@ nav {
 
 .AboutMe {
     color: #4aaaa5;
+    padding: 30px;
+    border-bottom: solid 2px #cccccc;
 }
 
-.TopRow {
- padding: 10px;
+.AboutRow{
+ 
  font-family: Georgia, 'Times New Roman', Times, serif;
+ margin-bottom: 20px;
  
 }
+
 
 .Wrapper {
     width: 1050px;
@@ -48,7 +52,8 @@ nav {
     overflow: auto;
 }
 .Midsection{
-    padding: 10px;
+    padding: 20px;
     color: #777777;
+    margin-top: 20px;
 }
 
