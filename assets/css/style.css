@@ -19,6 +19,9 @@ nav {
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
+li {
+    padding: 10px;
+}
 
 .container {
     padding-left: 0px;
@@ -46,7 +49,6 @@ nav {
 }
 p   {
     
-   
     color: #777777;
     line-height: 200%;
     
