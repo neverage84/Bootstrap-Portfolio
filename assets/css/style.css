@@ -35,25 +35,20 @@ nav {
     color: #4aaaa5;
     padding: 30px;
     border-bottom: solid 2px #cccccc;
-    
+    margin-bottom: 30px;
+   font-family: Georgia, 'Times New Roman', Times, serif; 
 }
-
-.AboutRow{
- 
- font-family: Georgia, 'Times New Roman', Times, serif;
- margin-bottom: 20px;
- 
-}
-
 
 .Wrapper {
     width: 1050px;
     margin: 0 auto;
     overflow: auto;
 }
-.Midsection{
-    padding: 20px;
+p   {
+    
+   
     color: #777777;
+    line-height: 200%;
     
 }
 
