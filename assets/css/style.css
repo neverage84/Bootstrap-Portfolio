@@ -12,6 +12,7 @@
 
 body {
     background-image: url("../images/purty_wood.png");
+    position: relative;
 }
 
 nav {
@@ -67,4 +68,20 @@ footer {
     background-color: #666666;
     border-top: solid 6px #4aaaa5;
     color: #ffffff;
+    
+}
+
+.Bottom {
+    position: fixed;
+    width: 100%;
+    bottom: 0; 
+}
+
+.card {
+    margin: 30px;
+}
+
+img {
+    width: 100%;
+    height: auto;
 }
