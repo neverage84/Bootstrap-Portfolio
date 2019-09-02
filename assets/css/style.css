@@ -53,7 +53,7 @@ a:hover {
     margin: 0 auto;
     overflow: auto;
 }
-p   {
+p, .form-group {
     
     color: #777777;
     line-height: 200%;
