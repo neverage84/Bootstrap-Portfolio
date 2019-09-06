@@ -53,6 +53,7 @@ a:hover {
     width: 1050px;
     margin: 0 auto;
     overflow: auto;
+    margin-bottom:30px;
 }
 p, .form-group {
     
