@@ -82,3 +82,15 @@ img {
     width: 100%;
     height: auto;
 }
+
+@media screen and (max-width:980px) {
+    .form-group {width: 930px}
+}
+
+@media screen and (max-width:750px) {
+    .form-group {width: 710px}
+}
+@media screen and (max-width:640px) {
+    .form-group {width: 600px}
+}
+
